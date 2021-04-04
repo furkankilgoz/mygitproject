@@ -8,7 +8,7 @@ public class MyGitClass {
 		System.out.println("my forth commit");
 		System.out.println("uzak sunucudaki kodum");
 		System.out.println("kod ekledik");
-		System.out.println("bilgisayarim");
+		System.out.println("wqeqweqwe");
 	}
 
 }
