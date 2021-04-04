@@ -12,6 +12,7 @@ public class MyGitClass {
 		System.out.println("ekstra satir");
 		System.out.println("yeni satir daha");
 
+		System.out.println("15. satir bilgisayarim");
 	}
 
 }
