@@ -9,7 +9,9 @@ public class MyGitClass {
 		System.out.println("uzak sunucudaki kodum");
 		System.out.println("kod ekledik");
 		System.out.println("wqeqweqwe");
-		System.out.println("omg");
+		System.out.println("ekstra satir");
+		System.out.println("yeni satir daha");
+
 	}
 
 }
