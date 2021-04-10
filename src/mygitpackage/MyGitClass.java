@@ -13,6 +13,7 @@ public class MyGitClass {
 		System.out.println("yeni satir daha");
 
 		System.out.println("15. satir bilgisayarim");
+		System.out.println("yeni branch");
 	}
 
 }
